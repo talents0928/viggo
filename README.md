@@ -10,3 +10,4 @@
 这里就可以是正常的
 
 -这里我加个超级链接(www.baidu.com)
+- [完整项目地址](http://https://github.com/guanMac/jquery_tips)
